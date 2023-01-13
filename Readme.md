@@ -13,8 +13,7 @@ Filter transactions by typing into the search bar. Only transactions with a desc
 ******
 
 ## SCREENSHOTS
-- link 1
-- link 2
+![screenshot](https://user-images.githubusercontent.com/91910681/212424272-3ac2770c-0fdd-4adc-9482-8dbaa67dc96e.jpg)
 
 
 ********
