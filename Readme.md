@@ -21,7 +21,7 @@ Filter transactions by typing into the search bar. Only transactions with a desc
 ## SetUp Instruction
 ### Requirements
 * [Lang](lang Url)
-* [Framework](Framework URL)
+* [Library](https://reactjs.org/)
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 * [Testing Platform](Platform URL)
 
@@ -38,14 +38,14 @@ Filter transactions by typing into the search bar. Only transactions with a desc
 * Open the folder location on terminal and use the following command to run app:
 
 ## How To Run It
->  $ pip install -r requirements.txt
-To install all requirements
+>  $ npm install
+To install all dependencies
 
-> $ python3 manage.py runserver
-Then run server with the above command
+> $ npm start
+Live development
 *****
 ## Live Link
-Or you can access the web application directly via this [LINK.](link.com/)
+-
 *****
 ## Dependencies
 - Package Name
@@ -59,10 +59,11 @@ Or you can access the web application directly via this [LINK.](link.com/)
 3. HTML
 4. CSS
 5. JavaScript
+6. Reactjs
+
 *****
 ## Contact Information
-* Email : example@gmail.com
+* Email : josephmugo8711@gmail.com
 *****
-## [License](LICENSE)
 MIT License
-Copyright (c) YEAR Author
+Copyright (c) 2023 Mugo Joseph Wamiti
