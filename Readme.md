@@ -1,11 +1,15 @@
-# Name of the Project
+# ROYAL BANK OF SAFCOM
 *****
-### Author : Name Date
+### Mugo Joseph Wamiti
 ****
 ## Project Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Welcome to the  ROYAL BANK OF SAFCOM , where you can trust us with all your financial data!
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+##As a user, I should be able to:
+
+See a table of the transactions.
+Fill out and submit the form to add a new transaction. This adds adds the new transaction to the table as well as post the new transaction to the backend API for persistence.
+Filter transactions by typing into the search bar. Only transactions with a description matching the search term should be shown in the transactions table.
 ******
 
 ## SCREENSHOTS
