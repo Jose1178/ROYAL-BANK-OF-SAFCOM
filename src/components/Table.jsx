@@ -54,7 +54,7 @@ function Table(){
   const[transactions, setList] = useState([])
 
   useEffect(()=>{
-    fetch('http://localhost:3000/transactions')
+    fetch('https://royalyutek-production.up.railway.app/transactions')
     .then(res=>res.json())
     .then(data=>{
       setList(data)
