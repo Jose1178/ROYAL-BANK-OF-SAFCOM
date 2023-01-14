@@ -22,7 +22,7 @@ Filter transactions by typing into the search bar. Only transactions with a desc
 * [Lang](lang Url)
 * [Library](https://reactjs.org/)
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
-* [Testing Platform](Platform URL)
+* [Testing Platform](https://vercel.com/ )
 
 
 ### Getting Files
@@ -41,7 +41,7 @@ Filter transactions by typing into the search bar. Only transactions with a desc
 To install all dependencies
 
 > $ npm start
-Live development
+Live development https://royal-bank-of-safcom.vercel.app/
 *****
 ## Live Link
 -
